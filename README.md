@@ -31,19 +31,19 @@ Any suggestions or additions, feel free to open an issue.
 * [RegiVM](https://github.com/Elliesaur/RegiVM) - Somewhat-register-based VM?
 
 ### Trial + Paid
-* [ILSentinel](https://ilsentinel.net/) - Professional .NET obfuscation service. Upload your DLL or EXE, pick your protection modules, and download a hardened binary in seconds.
-* [NET Reactor](https://www.eziriz.com/) - NET Reactor is a powerful .NET code protection and software licensing system which completely stops any decompiling.
-* [VMProtect](https://vmpsoft.com) - VMProtect protects code by executing it on a virtual machine with non-standard architecture that makes it extremely difficult to analyze and crack the software. Besides that, VMProtect generates and verifies serial numbers, limits free upgrades and much more.
-* [Agile](https://secureteam.net/acode)- Agile.NET, Powerful Code Protection, Obfuscation, and Licensing Solution for your .NET Apps.
-* [DNGuard HVM](https://dnguard.net/downloads.php) - Advanced .NET Code Protection and Obfuscation Technology.
 * [AppFuscator](https://appfuscator.com/) - Inteligence algorithm provide your application powerful protection! 
+* [Babel](https://www.babelfor.net/) - Protect your software against reverse engineering to safeguard the intellectual property of your code.
+* [Agile](https://secureteam.net/acode)- Agile.NET, Powerful Code Protection, Obfuscation, and Licensing Solution for your .NET Apps.
 * [ByteHide](https://www.bytehide.com/products/shield-obfuscator/dotnet) - ByteHide provides .NET obfuscator to companies and organizations. Providing a set of tools that protect your intellectual property, ensure the integrity of your software and reducing costs.
-* [Babel](https://www.babelfor.net/) - Protect your software against reverse engineering to safeguard the intellectual property of your code
 * [Dotfuscator](https://www.preemptive.com/products/dotfuscator/overview) - Dotfucator's .NET obfuscation and runtime checks have protected thousands of apps for over a decade.
+* [DNGuard HVM](https://dnguard.net/downloads.php) - Advanced .NET Code Protection and Obfuscation Technology.
 * [Eazfuscator](https://www.gapotchenko.com/eazfuscator.net) - Eazfuscator.NET protects intellectual property ingrained in software, increasing commercial profitability and allowing to keep the advantage over the competition. 
 * [Enigma Protector](https://enigmaprotector.com/en/about.html) - A professional system for licensing and protecting
 executable files for Windows.
 * [ILProtector](http://www.vgrsoft.net/Products/ILProtector) - ILProtector is a protector for .NET applications. ILProtector is designed to protect intellectual property of the software. 
+* [ILSentinel](https://ilsentinel.net/) - Professional .NET obfuscation service. Upload your DLL or EXE, pick your protection modules, and download a hardened binary in seconds.
+* [NET Reactor](https://www.eziriz.com/) - NET Reactor is a powerful .NET code protection and software licensing system which completely stops any decompiling.
+* [VMProtect](https://vmpsoft.com) - VMProtect protects code by executing it on a virtual machine with non-standard architecture that makes it extremely difficult to analyze and crack the software. Besides that, VMProtect generates and verifies serial numbers, limits free upgrades and much more.
 
 ### Paid Only
 * [Rika .NET](https://rikadotnet.com/) - Next‑Level Security for your .NET code.
