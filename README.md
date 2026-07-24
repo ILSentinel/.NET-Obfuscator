@@ -19,15 +19,15 @@ Any suggestions or additions, feel free to open an issue.
   - [Paid Only](#paid-only)
 
 ### Open Source
-* [ConfuserEx](https://github.com/yck1509/ConfuserEx) - An open-source, free protector for .NET applications.
-* [KoiVM](https://github.com/yck1509/KoiVM) - Virtualizing code protector and obfuscation plugin for .NET applications used with ConfuserEx.
-* [MemeVM](https://github.com/TobitoFatitoNulled/MemeVM) - A small virtualizer for .NET which works together with ConfuserEx.
-* [Noisette](https://github.com/XenocodeRCE/Noisette-Obfuscator) - An Obfuscator for .NET assembly.
 * [Cloak](https://github.com/WhosLogan/Cloak) - An easy to learn from .NET obfuscator.
-* [LoGic.NET](https://github.com/AnErrupTion/LoGiC.NET) - A more advanced free and open .NET obfuscator using dnlib.
-* [MindLated](https://github.com/Sato-Isolated/MindLated) -  .net obfuscator using dnlib.
-* [Obfuscar](https://github.com/obfuscar/obfuscar) - Open source obfuscation tool for .NET assemblies.
+* [ConfuserEx](https://github.com/yck1509/ConfuserEx) - An open-source, free protector for .NET applications.
 * [Hex Virtualization](https://github.com/hexck/Hex-Virtualization) - Hex-Virtualization was built so that people can learn from it.
+* [KoiVM](https://github.com/yck1509/KoiVM) - Virtualizing code protector and obfuscation plugin for .NET applications used with ConfuserEx.
+* [LoGic.NET](https://github.com/AnErrupTion/LoGiC.NET) - A more advanced free and open .NET obfuscator using dnlib.
+* [MemeVM](https://github.com/TobitoFatitoNulled/MemeVM) - A small virtualizer for .NET which works together with ConfuserEx.
+* [MindLated](https://github.com/Sato-Isolated/MindLated) -  .net obfuscator using dnlib.
+* [Noisette](https://github.com/XenocodeRCE/Noisette-Obfuscator) - An Obfuscator for .NET assembly.
+* [Obfuscar](https://github.com/obfuscar/obfuscar) - Open source obfuscation tool for .NET assemblies.
 * [RegiVM](https://github.com/Elliesaur/RegiVM) - Somewhat-register-based VM?
 
 ### Trial + Paid
