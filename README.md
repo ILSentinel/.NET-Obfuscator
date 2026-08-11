@@ -19,6 +19,7 @@ Any suggestions or additions, feel free to open an issue.
   - [Paid Only](#paid-only)
 
 ### Open Source
+* [CawkVM](https://github.com/Obfuscator-Collections/CawkVM) - .NET VM based on dynamic methods.
 * [Cloak](https://github.com/WhosLogan/Cloak) - An easy to learn from .NET obfuscator.
 * [ConfuserEx](https://github.com/yck1509/ConfuserEx) - An open-source, free protector for .NET applications.
 * [Hex Virtualization](https://github.com/hexck/Hex-Virtualization) - Hex-Virtualization was built so that people can learn from it.
@@ -26,14 +27,15 @@ Any suggestions or additions, feel free to open an issue.
 * [LoGic.NET](https://github.com/AnErrupTion/LoGiC.NET) - A more advanced free and open .NET obfuscator using dnlib.
 * [MemeVM](https://github.com/TobitoFatitoNulled/MemeVM) - A small virtualizer for .NET which works together with ConfuserEx.
 * [MindLated](https://github.com/Sato-Isolated/MindLated) -  .net obfuscator using dnlib.
+* [NashaVM](https://github.com/Mrakovic-ORG/NashaVM) - Nasha is a Virtual Machine for .NET files and its runtime was made in C++/CLI.
 * [Noisette](https://github.com/XenocodeRCE/Noisette-Obfuscator) - An Obfuscator for .NET assembly.
 * [Obfuscar](https://github.com/obfuscar/obfuscar) - Open source obfuscation tool for .NET assemblies.
 * [RegiVM](https://github.com/Elliesaur/RegiVM) - Somewhat-register-based VM?
 
 ### Trial + Paid
 * [AppFuscator](https://appfuscator.com/) - Inteligence algorithm provide your application powerful protection! 
+* [Agile](https://secureteam.net/acode) - Agile.NET, Powerful Code Protection, Obfuscation, and Licensing Solution for your .NET Apps.
 * [Babel](https://www.babelfor.net/) - Protect your software against reverse engineering to safeguard the intellectual property of your code.
-* [Agile](https://secureteam.net/acode)- Agile.NET, Powerful Code Protection, Obfuscation, and Licensing Solution for your .NET Apps.
 * [ByteHide](https://www.bytehide.com/products/shield-obfuscator/dotnet) - ByteHide provides .NET obfuscator to companies and organizations. Providing a set of tools that protect your intellectual property, ensure the integrity of your software and reducing costs.
 * [Dotfuscator](https://www.preemptive.com/products/dotfuscator/overview) - Dotfucator's .NET obfuscation and runtime checks have protected thousands of apps for over a decade.
 * [DNGuard HVM](https://dnguard.net/downloads.php) - Advanced .NET Code Protection and Obfuscation Technology.
